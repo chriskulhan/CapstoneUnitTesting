@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1119c4c6-0e56-4482-a7f2-406b5da7016a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CapstoneUnitTesting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pizza_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_pizza_directory.py" afterDir="false" />
-    </list>
+    <list default="true" id="1119c4c6-0e56-4482-a7f2-406b5da7016a" name="Changes" comment="working through test pizza directory from knowledge quest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,11 +59,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742936247446</updated>
-      <workItem from="1742936250077" duration="724000" />
+      <workItem from="1742936250077" duration="1355000" />
     </task>
+    <task id="LOCAL-00001" summary="working through test pizza directory from knowledge quest">
+      <option name="closed" value="true" />
+      <created>1742937646425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742937646425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working through test pizza directory from knowledge quest" />
+    <option name="LAST_COMMIT_MESSAGE" value="working through test pizza directory from knowledge quest" />
   </component>
 </project>
